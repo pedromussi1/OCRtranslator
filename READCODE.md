@@ -104,15 +104,12 @@ if __name__ == "__main__":
 
 <h2>Example Usage</h2>
 
+<p>The example usage provided in the code runs the main function with a specified image path and target language (pt-br for Brazilian Portuguese).</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://i.imgur.com/jDDXD9P.jpeg" alt="BookPage" style="width: 300px; height: auto; margin: 20px;">
   <img src="https://i.imgur.com/8htNEXy.png" alt="TranscribingImage" style="width: 300px; height: auto; margin: 20px;">
   <img src="https://i.imgur.com/U1XvLjI.png" alt="TranslatingText" style="width: 300px; height: auto; margin: 20px;">
-
-
-
-<p>The example usage provided in the code runs the main function with a specified image path and target language (pt-br for Brazilian Portuguese).</p>
 
 <p>This program demonstrates a practical application of OCR and translation technologies, converting text in images to different languages. It is useful for various applications, including document translation, assisting with language learning, and more.</p>
 </div>
