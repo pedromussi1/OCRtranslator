@@ -1,0 +1,6 @@
+opencv-python==5.0.0.93
+pytesseract==0.3.13
+numpy==2.4.6
+langdetect==1.0.9
+argostranslate==1.11.0   # local, offline neural translation (no API, no quota)
+pytest==9.1.1
